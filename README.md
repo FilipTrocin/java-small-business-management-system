@@ -30,6 +30,9 @@ Tricky Trinkets Manager*
 ## Connecting to the Database
 
 - Log in to the MySql database using the following credentials: 
+
+
 **database name**: csc1035_team54
 **password**: a8xOaZxpPhpQS1Pu
+
 - Make sure you have `jdbc Driver` and `MySQL 5.1` driver installed
